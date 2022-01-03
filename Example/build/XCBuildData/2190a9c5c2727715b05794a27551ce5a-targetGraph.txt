@@ -1,0 +1,8 @@
+Target dependency graph (4 targets)
+ConsoliAds-Startapp-Adapter in Pods
+FBSnapshotTestCase in Pods
+Pods-ConsoliAds-Startapp-Adapter_Example in Pods, depends on:
+ConsoliAds-Startapp-Adapter in Pods (explicit)
+Pods-ConsoliAds-Startapp-Adapter_Tests in Pods, depends on:
+FBSnapshotTestCase in Pods (explicit)
+Pods-ConsoliAds-Startapp-Adapter_Example in Pods (explicit)

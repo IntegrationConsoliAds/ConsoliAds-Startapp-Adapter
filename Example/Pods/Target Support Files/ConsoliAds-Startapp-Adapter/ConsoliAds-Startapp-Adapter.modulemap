@@ -1,0 +1,6 @@
+framework module ConsoliAds_Startapp_Adapter {
+  umbrella header "ConsoliAds-Startapp-Adapter-umbrella.h"
+
+  export *
+  module * { export * }
+}

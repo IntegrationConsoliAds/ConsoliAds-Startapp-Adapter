@@ -1,0 +1,27 @@
+PODS:
+  - ConsoliAds-Startapp-Adapter (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - ConsoliAds-Startapp-Adapter (from `../`)
+  - FBSnapshotTestCase
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  ConsoliAds-Startapp-Adapter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ConsoliAds-Startapp-Adapter: e9819baa5634bd9c5e6a59a3a475441eb058803c
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 7478032eac066dc78ceffc43d6c201eb869454c9
+
+COCOAPODS: 1.11.2
