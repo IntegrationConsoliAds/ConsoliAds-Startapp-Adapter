@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Volumes/DataDrive/WorkSpace/CocoaPod Git Repos/ConsoliAds-Startapp-Adapter/Example/build/Debug-iphonesimulator/FBSnapshotTestCase/FBSnapshotTestCase.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Volumes/DataDrive/WorkSpace/CocoaPod Git Repos/ConsoliAds-Startapp-Adapter/Example/build/Pods.build/Debug-iphonesimulator/FBSnapshotTestCase.build/unextended-module.modulemap",
+    }]
+  }]
+}

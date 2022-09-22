@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ConsoliAds-Startapp-Adapter'
-  s.version          = '4.6.7-1.2'
+  s.version          = '4.7.3-v14.1.0'
   s.summary          = 'This pod is used to get castartapp adapter for startappAd serving after integrating Consoliads-Mediation pod.'
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?

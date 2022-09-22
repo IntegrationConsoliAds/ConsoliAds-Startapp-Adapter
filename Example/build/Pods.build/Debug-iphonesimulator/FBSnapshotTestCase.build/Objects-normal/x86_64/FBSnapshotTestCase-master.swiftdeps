@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "648bca7b6b953a7a617f2f9c3ea07f4307af9ee6fb388e468d3727b7e62bdaff"
+build_start_time: [1663829930, 71827888]
+build_end_time: [1663829937, 28070926]
+inputs:
+  ? "/Volumes/DataDrive/WorkSpace/CocoaPod Git Repos/ConsoliAds-Startapp-Adapter/Example/Pods/FBSnapshotTestCase/FBSnapshotTestCase/SwiftSupport.swift"
+  : [1660807158, 235572338]
